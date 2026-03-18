@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563469755786",
+    "project_id": "share-location-app-39ce3",
+    "storage_bucket": "share-location-app-39ce3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563469755786:android:7c14f2e0a1370b9fea5473",
+        "android_client_info": {
+          "package_name": "com.example.share_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXyzN0ZVlVBz3HpNZOlq7fFVLzUPUwMlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
